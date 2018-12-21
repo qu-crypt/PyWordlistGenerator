@@ -5,7 +5,7 @@ import itertools
 print ("-----------------------------------")
 print ("-------PyWordlistGenerator---------")
 print ("-----------------------------------")
-print ("-------teravice@rawsocket.io-------")
+print ("-------teravice@gmail.com----------")
 print ("-----------------------------------")
 print ("")
 
