@@ -5,7 +5,7 @@ import itertools
 print ("-----------------------------------")
 print ("-------PyWordlistGenerator---------")
 print ("-----------------------------------")
-print ("-------qucrypt@0x3f.dev------------")
+print ("-------teravice@0x3f.dev-----------")
 print ("-----------------------------------")
 print ("")
 
